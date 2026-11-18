@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/photo-41fbe2326d7cc30b.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\01.jpg",
+    "sha256": "34ff2d4e3a537b5f7ff84c983a1f5daaf999490519ab69ee091730b814f93e53",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-73f573b3efc91fc3.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\02.jpg",
+    "sha256": "1b81bdac82f74796ba7148f89b95db898ac1b27998e78a80bc695e0dc54d2ddf",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-7b6a8abb03fb54a4.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\03.jpg",
+    "sha256": "0052be50c8db027b116303029f1861d1a8d50bdd67f938fbd0a5e87887e30360",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-5efd1a529eee746e.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\04.jpg",
+    "sha256": "a8a6720187de9918023c4373b20acd93dd97c1a35c8e0a0298ee24e84dc2abe9",
+    "originalDimensions": [
+      484,
+      640
+    ],
+    "webDimensions": [
+      484,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-e22fda35e2f5d945.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\08.jpg",
+    "sha256": "f37e405cc39a595a58c535b7bd4bfe417902bedb5af1558195841727a400fe25",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-31f93ef451fe9fcf.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\06.jpg",
+    "sha256": "b12b890b2f910e94eb272f273fe634cb5e5a57098e69625de59b6af73882445e",
+    "originalDimensions": [
+      640,
+      635
+    ],
+    "webDimensions": [
+      640,
+      635
+    ]
+  },
+  {
+    "file": "/images/photo-f99a250108606303.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\native-hero.jpg",
+    "sha256": "d1eafd68db9f9ef6c075b65dcf8589cd2b1f0ecb3d72ba340cfa789ab8f8ac47",
+    "originalDimensions": [
+      4096,
+      4096
+    ],
+    "webDimensions": [
+      1700,
+      1700
+    ]
+  },
+  {
+    "file": "/images/photo-470cda79efaffbae.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\09.jpg",
+    "sha256": "3419bf553cd1dbcbe9ff3443ee3be79e3f966156c410b7ca58f06dfbf76c77a5",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-8c3664cba3a9ce12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\11.jpg",
+    "sha256": "2b168d83b48206ebf6171b57f41a75e4ed46f8ef9de8a1908c767a160c963abf",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/photo-ac45fb0d5c7d55a0.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\lulu-baby-boutique\\assets\\10.jpg",
+    "sha256": "903304bb713a844fbccac536df31106eade3ebdacf1be0e00457985543f41650",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  }
+]

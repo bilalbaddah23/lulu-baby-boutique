@@ -1,0 +1,147 @@
+{
+  "brand": "Lulu Baby Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96176975709",
+  "displayPhone": "+961 76 975 709",
+  "instagram": "https://www.instagram.com/lulubabyboutique.lb/",
+  "hours": "Confirm current visiting hours with Lulu",
+  "hero": "/images/photo-f99a250108606303.jpg",
+  "story": "/images/photo-ac45fb0d5c7d55a0.jpg",
+  "galleryImages": [
+    "/images/photo-41fbe2326d7cc30b.jpg",
+    "/images/photo-73f573b3efc91fc3.jpg",
+    "/images/photo-7b6a8abb03fb54a4.jpg",
+    "/images/photo-5efd1a529eee746e.jpg",
+    "/images/photo-31f93ef451fe9fcf.jpg",
+    "/images/photo-f99a250108606303.jpg",
+    "/images/photo-e22fda35e2f5d945.jpg",
+    "/images/photo-470cda79efaffbae.jpg",
+    "/images/photo-ac45fb0d5c7d55a0.jpg",
+    "/images/photo-8c3664cba3a9ce12.jpg"
+  ],
+  "products": [
+    {
+      "id": "first-christmas-santa-look",
+      "name": "First Christmas Santa Look",
+      "collection": "Festive moments",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light baby garment with a Santa face and Baby’s First Christmas lettering, photographed with festive styling. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-41fbe2326d7cc30b.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/reel/Df4p8NauBa0/"
+    },
+    {
+      "id": "christmas-tree-knit",
+      "name": "Christmas Tree Knit",
+      "collection": "Festive moments",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red knit featuring a Christmas tree and Merry Christmas lettering, shown with a light bow in the source styling. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-73f573b3efc91fc3.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/reel/Df4e2zzurFh/"
+    },
+    {
+      "id": "festive-plaid-edit",
+      "name": "Festive Plaid Edit",
+      "collection": "Festive moments",
+      "audience": "The edit",
+      "family": "",
+      "description": "Red-and-green plaid baby looks styled with red outer layers and light collars. The photographs show related individual options; ask Lulu for the exact reference you prefer. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-7b6a8abb03fb54a4.jpg",
+        "/images/photo-5efd1a529eee746e.jpg",
+        "/images/photo-e22fda35e2f5d945.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/reel/Df1Y0abuz9E/"
+    },
+    {
+      "id": "burgundy-first-outfit",
+      "name": "Burgundy First Outfit",
+      "collection": "Everyday outfits",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy dungaree-style baby outfit worn over a light long-sleeved top, shown with a matching-looking head bow. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-31f93ef451fe9fcf.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/p/DfjnzeBDhKB/"
+    },
+    {
+      "id": "sage-knit-newborn-edit",
+      "name": "Sage Knit Newborn Edit",
+      "collection": "Newborn edits",
+      "audience": "The edit",
+      "family": "",
+      "description": "A sage-green cable-style knit baby outfit photographed with a matching-looking hat, mittens, booties and knit layer. Ask Lulu which pieces belong to your chosen set. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-f99a250108606303.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/p/DfhrNunDjYx/"
+    },
+    {
+      "id": "red-ruffle-baby-look",
+      "name": "Red Ruffle Baby Look",
+      "collection": "Everyday outfits",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red long-sleeved baby outfit with ruffle trim at the neckline and hem, photographed with a coordinated-looking knit hat. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-470cda79efaffbae.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/p/DfZfossDuJj/"
+    },
+    {
+      "id": "burgundy-skirt-look",
+      "name": "Burgundy Skirt Look",
+      "collection": "Everyday outfits",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy pleated-style skirt paired in the photograph with a light collared top with burgundy stripe accents. The shoes are part of the styling; confirm them separately. Confirm the exact pieces included, age sizing, fibre composition, care details, current price and availability with Lulu. Styling props are not included unless the boutique confirms them.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm age sizing with Lulu"
+      ],
+      "images": [
+        "/images/photo-8c3664cba3a9ce12.jpg"
+      ],
+      "source": "https://www.instagram.com/lulubabyboutique.lb/reel/DfSeF11ORuJ/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
